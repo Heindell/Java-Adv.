@@ -1,0 +1,8 @@
+
+public abstract class Forma {
+	
+	protected final double area(double base, double altura){
+		return(base * altura);
+	} 
+
+}
